@@ -1,0 +1,115 @@
+#EXTM3U 
+#EXTINF: -1 tvg-id="FOXMoviesPremium.id" tvg-logo="https://macan.live/img/fox_movies_premium.png" group-title="FREEMIUM", FOX Movies Premium
+https://delivery.macan.live/stream/id_foxmoviespremium/index.m3u8?token=gratisan
+#EXTINF: -1 tvg-id="FOXActionMovies.id" tvg-logo="https://macan.live/img/fox_action_movies.png" group-title="FREEMIUM", FOX Action Movies
+https://delivery.macan.live/stream/id_foxactionmovies/index.m3u8?token=gratisan
+#EXTINF: -1 tvg-id="FOXFamilyMovies.id" tvg-logo="https://macan.live/img/fox_family_movies.png" group-title="FREEMIUM", FOX Family Movies
+https://delivery.macan.live/stream/id_foxfamilymovies/index.m3u8?token=gratisan
+#EXTINF: -1 tvg-id="HBO.id" tvg-logo="https://macan.live/img/hbo.png" group-title="FREEMIUM", HBO
+https://delivery.macan.live/stream/hbo/index.m3u8?token=gratisan
+#EXTINF: -1 tvg-id="HBOFamily.id" tvg-logo="https://macan.live/img/hbo_family.png" group-title="FREEMIUM", HBO Family
+https://delivery.macan.live/stream/hbo_family/index.m3u8?token=gratisan
+#EXTINF: -1 tvg-id="HBOHits.id" tvg-logo="https://macan.live/img/hbo_hits.png" group-title="FREEMIUM", HBO Hits
+https://delivery.macan.live/stream/hbo_hits/index.m3u8?token=gratisan
+#EXTINF: -1 tvg-id="HBOSignature.id" tvg-logo="https://macan.live/img/hbo_signature.png" group-title="FREEMIUM", HBO Signature
+https://delivery.macan.live/stream/hbo_signature/index.m3u8?token=gratisan
+#EXTINF: -1 tvg-id="RED.id" tvg-logo="https://macan.live/img/red_hbo.png" group-title="FREEMIUM", RED by HBO
+https://delivery.macan.live/stream/redhbo/index.m3u8?token=gratisan
+#EXTINF: -1 tvg-id="CineMax.id" tvg-logo="https://macan.live/img/cinemaxa.png" group-title="FREEMIUM", Cinemax by HBO
+https://delivery.macan.live/stream/cinemax/index.m3u8?token=gratisan
+#EXTINF: -1 tvg-id="CrimeInvestigation.id" tvg-logo="https://macan.live/img/crime_investigation.png" group-title="FREEMIUM", Crime Investigation
+https://delivery.macan.live/stream/crimeinvestigation/index.m3u8?token=gratisan
+#EXTINF: -1 tvg-id="Flik" group-title="FREEMIUM", Flik
+https://delivery.macan.live/stream/flik/index.m3u8?token=gratisan
+#EXTINF: -1 tvg-id="Thrill.id" tvg-logo="https://macan.live/img/thrill.png" group-title="FREEMIUM", Thrill
+https://delivery.macan.live/stream/thrill/index.m3u8?token=gratisan
+#EXTINF: -1 tvg-id="HITS.id" tvg-logo="https://macan.live/img/hits.png" group-title="FREEMIUM", HITS
+https://delivery.macan.live/stream/hits/index.m3u8?token=gratisan
+#EXTINF: -1 tvg-id="HITSMovies.id" tvg-logo="https://macan.live/img/hits_movies.png" group-title="FREEMIUM", HITS Movies
+https://delivery.macan.live/stream/hits_movies/index.m3u8?token=gratisan
+#EXTINF: -1 tvg-id="SonyOne.id" tvg-logo="https://macan.live/img/sonyone.png" group-title="FREEMIUM", Sony One
+https://delivery.macan.live/stream/sonyone/index.m3u8?token=gratisan
+#EXTINF: -1 tvg-id="ArirangTV.kr" tvg-logo="https://macan.live/img/arirang.png" group-title="FREEMIUM", Arirang
+https://delivery.macan.live/stream/arirang/index.m3u8?token=gratisan
+#EXTINF: -1 tvg-id="tvN" tvg-logo="https://macan.live/img/tvn.png" group-title="FREEMIUM", tvN
+https://delivery.macan.live/stream/id_tvn/index.m3u8?token=gratisan
+#EXTINF: -1 tvg-id="tvN Movies" tvg-logo="https://macan.live/img/tvn_movies.png" group-title="FREEMIUM", tvN Movies
+https://delivery.macan.live/stream/tvn_movies/index.m3u8?token=gratisan
+#EXTINF: -1 tvg-id="KBS World" tvg-logo="https://macan.live/img/kbs_world.png" group-title="FREEMIUM", KBS World
+https://delivery.macan.live/stream/kbs_world/index.m3u8?token=gratisan
+#EXTINF: -1 tvg-id="Animax.id" tvg-logo="https://macan.live/img/animax.png" group-title="FREEMIUM", Animax
+https://delivery.macan.live/stream/id_animax/index.m3u8?token=gratisan
+#EXTINF: -1 tvg-id="WakuWakuJapan.id" tvg-logo="https://macan.live/img/wakuwaku.png" group-title="FREEMIUM", Waku Waku Japan
+https://delivery.macan.live/stream/wakuwaku/index.m3u8?token=gratisan
+#EXTINF: -1 tvg-id="GEMChannel.id" tvg-logo="https://macan.live/img/gem.jpg" group-title="FREEMIUM", Sony GEM TV
+https://delivery.macan.live/stream/id_gem/index.m3u8?token=gratisan
+#EXTINF: -1 tvg-id="KIX.id" tvg-logo="https://macan.live/img/kix.png" group-title="FREEMIUM", KIX
+https://delivery.macan.live/stream/kix/index.m3u8?token=gratisan
+#EXTINF: -1 tvg-id="CelestialMovies.id" tvg-logo="https://macan.live/img/cm.jpg" group-title="FREEMIUM", Celestial Movies
+https://delivery.macan.live/stream/cm/index.m3u8?token=gratisan
+#EXTINF: -1 tvg-id="CCM.id" tvg-logo="https://macan.live/img/ccm.png" group-title="FREEMIUM", Celestial Classic Movies
+https://delivery.macan.live/stream/ccm/index.m3u8?token=gratisan
+#EXTINF: -1 tvg-id="SCMLegend.id" tvg-logo="https://macan.live/img/scmlegend.jpeg" group-title="FREEMIUM", SCM Legend
+https://delivery.macan.live/stream/scmlegend/index.m3u8?token=gratisan
+#EXTINF: -1 tvg-id="StarChineseMoviesEn.hk" tvg-logo="https://macan.live/img/star_chinese_movies.png" group-title="FREEMIUM", Star Chinese Movies
+https://delivery.macan.live/stream/id_scm/index.m3u8?token=gratisan
+#EXTINF: -1 tvg-id="SinemaIndonesia.id" tvg-logo="https://macan.live/img/sinema_indonesia.png" group-title="FREEMIUM", Sinema Indonesia
+https://delivery.macan.live/stream/sinema_indonesia/index.m3u8?token=gratisan
+#EXTINF: -1 tvg-id="GalaxyPremium.id" tvg-logo="https://macan.live/img/galaxy_premium.png" group-title="FREEMIUM", Galaxy Premium
+https://delivery.macan.live/stream/galaxy_premium/index.m3u8?token=gratisan
+#EXTINF: -1 tvg-id="LoveNature.uk" tvg-logo="https://macan.live/img/love_nature.png" group-title="FREEMIUM", Love Nature
+https://delivery.macan.live/stream/love_nature/index.m3u8?token=gratisan
+#EXTINF: -1 tvg-id="HistoryChannel.id" tvg-logo="https://macan.live/img/history.png" group-title="FREEMIUM", History
+https://delivery.macan.live/stream/history/index.m3u8?token=gratisan
+#EXTINF: -1 tvg-id="Smithsonian" tvg-logo="https://macan.live/img/smithsonian.png" group-title="FREEMIUM", Smithsonian
+https://delivery.macan.live/stream/smithsonian/index.m3u8?token=gratisan
+#EXTINF: -1 tvg-id="HGTV" tvg-logo="https://macan.live/img/hgtv.png" group-title="FREEMIUM", HGTV
+https://delivery.macan.live/stream/hgtv/index.m3u8?token=gratisan
+#EXTINF: -1 tvg-id="AFC" tvg-logo="https://macan.live/img/afc.png" group-title="FREEMIUM", AFC
+https://delivery.macan.live/stream/id_afc/index.m3u8?token=gratisan
+#EXTINF: -1 tvg-id="TLC.id" tvg-logo="https://macan.live/img/tlc.png" group-title="FREEMIUM", TLC
+https://delivery.macan.live/stream/tlc/index.m3u8?token=gratisan
+#EXTINF: -1 tvg-id="BBCEarth.id" tvg-logo="https://macan.live/img/bbc_earth.png" group-title="FREEMIUM", BBC Earth
+https://delivery.macan.live/stream/bbc_earth/index.m3u8?token=gratisan
+#EXTINF: -1 tvg-id="BBC Lifestyle" tvg-logo="https://macan.live/img/bbc_lifestyle.png" group-title="FREEMIUM", BBC Lifestyle
+https://delivery.macan.live/stream/bbc_lifestyle/index.m3u8?token=gratisan
+#EXTINF: -1 tvg-id="AnimalPlanet.id" tvg-logo="https://macan.live/img/animalplanet.png" group-title="FREEMIUM", Animal Planet
+https://delivery.macan.live/stream/id_animalplanet/index.m3u8?token=gratisan
+#EXTINF: -1 tvg-id="DiscoveryChannel.id" tvg-logo="https://macan.live/img/discoverychannel.png" group-title="FREEMIUM", Discovery Channel
+https://delivery.macan.live/stream/id_discoverychannel/index.m3u8?token=gratisan
+#EXTINF: -1 tvg-id="Discovery Asia" tvg-logo="https://macan.live/img/discoveryasia.png" group-title="FREEMIUM", Discovery Asia
+https://delivery.macan.live/stream/id_discoveryasia/index.m3u8?token=gratisan
+#EXTINF: -1 tvg-id="NatGeo.id" tvg-logo="https://macan.live/img/ngc.png" group-title="FREEMIUM", National Geographic
+https://delivery.macan.live/stream/id_ngc/index.m3u8?token=gratisan
+#EXTINF: -1 tvg-id="NatGeoPeople.id" tvg-logo="https://macan.live/img/natgeopeople.png" group-title="FREEMIUM", Nat Geo People
+https://delivery.macan.live/stream/id_netgeopeople/index.m3u8?token=gratisan
+#EXTINF: -1 tvg-id="NatGeoWild.id" tvg-logo="https://macan.live/img/natgeowild.png" group-title="FREEMIUM", Nat Geo Wild
+https://delivery.macan.live/stream/id_natgeowild/index.m3u8?token=gratisan
+#EXTINF: -1 tvg-id="Lifetime.id" tvg-logo="https://macan.live/img/lifetime.png" group-title="FREEMIUM", Lifetime
+https://delivery.macan.live/stream/lifetime/index.m3u8?token=gratisan
+#EXTINF: -1 tvg-id="BlueAntEntertainment.id" tvg-logo="https://macan.live/img/blue_ant_entertainment.png" group-title="FREEMIUM", Blue Ant Entertainment
+https://delivery.macan.live/stream/blue_ant_entertainment/index.m3u8?token=gratisan
+#EXTINF: -1 tvg-id="BlueAntExtreme.id" tvg-logo="https://macan.live/img/blue_ant_extreme.png" group-title="FREEMIUM", Blue Ant Extreme
+https://delivery.macan.live/stream/blue_ant_extreme/index.m3u8?token=gratisan
+#EXTINF: -1 tvg-id="AXN.id" tvg-logo="https://macan.live/img/axn.png" group-title="FREEMIUM", AXN
+https://delivery.macan.live/stream/id_axn/index.m3u8?token=gratisan
+#EXTINF: -1 tvg-id="FX.id" tvg-logo="https://macan.live/img/fx.png" group-title="FREEMIUM", FX
+https://delivery.macan.live/stream/id_fx/index.m3u8?token=gratisan
+#EXTINF: -1 tvg-id="FOX.id" tvg-logo="https://macan.live/img/fox.jpg" group-title="FREEMIUM", FOX
+https://delivery.macan.live/stream/id_fox/index.m3u8?token=gratisan
+#EXTINF: -1 tvg-id="FOXCrime.id" tvg-logo="https://macan.live/img/fox_crime.png" group-title="FREEMIUM", FOX Crime
+https://delivery.macan.live/stream/id_foxcrime/index.m3u8?token=gratisan
+#EXTINF: -1 tvg-id="FoxLife.id" tvg-logo="https://macan.live/img/fox_life.png" group-title="FREEMIUM", FOX Life
+https://delivery.macan.live/stream/id_foxlife/index.m3u8?token=gratisan
+#EXTINF: -1 tvg-id="AstroAwani.my" tvg-logo="https://macan.live/img/astro_awani.png" group-title="FREEMIUM", Astro Awani
+https://delivery.macan.live/stream/astro_awani/index.m3u8?token=gratisan
+#EXTINF: -1 tvg-id="AstroCeria.my" tvg-logo="https://macan.live/img/astro_ceria.png" group-title="FREEMIUM", Astro Ceria
+https://delivery.macan.live/stream/astro_ceria/index.m3u8?token=gratisan
+#EXTINF: -1 tvg-id="AstroOasis.my" tvg-logo="https://macan.live/img/astro_oasis.png" group-title="FREEMIUM", Astro Oasis
+https://delivery.macan.live/stream/astro_oasis/index.m3u8?token=gratisan
+#EXTINF: -1 tvg-id="AstroPrima.my" tvg-logo="https://macan.live/img/astro_prima.png" group-title="FREEMIUM", Astro Prima
+https://delivery.macan.live/stream/astro_prima/index.m3u8?token=gratisan
+#EXTINF: -1 tvg-id="AstroRia.my" tvg-logo="https://macan.live/img/astro_ria.png" group-title="FREEMIUM", Astro Ria
+https://delivery.macan.live/stream/astro_ria/index.m3u8?token=gratisan
+#EXTINF: -1 tvg-id="AstroWarna.my" tvg-logo="https://macan.live/img/astro_warna.png" group-title="FREEMIUM", Astro Warna
+https://delivery.macan.live/stream/astro_warna/index.m3u8?token=gratisan
