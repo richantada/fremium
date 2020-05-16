@@ -1,61 +1,105 @@
 #EXTM3U 
-#EXTINF: -1 tvg-name="IMC" tvg-logo="https://x1.cdn.broiptv.online/img/imc.png" group-title="MOVIES", IMC
-http://agsgroup.online/play/trial@agsgroup.online/02200220/W6EvwXM4/rattus/imc_rattus/playlist.m3u8
-#EXTINF: -1 tvg-name="Celestial Movie" tvg-logo="https://x1.cdn.broiptv.online/img/celestialmovie.png" group-title="MOVIES", Celestial Movie
-http://agsgroup.online/play/trial@agsgroup.online/02200220/W6EvwXM4/rattus/celestial_movie_rattus/playlist.m3u8
-#EXTINF: -1 tvg-name="Cinema World" tvg-logo="https://x1.cdn.broiptv.online/img/cinemaworld.png" group-title="MOVIES", Cinema World
-http://agsgroup.online/play/trial@agsgroup.online/02200220/W6EvwXM4/rattus/cinema_world_rattus/playlist.m3u8
-#EXTINF: -1 tvg-name="Bioskop Indonesia" tvg-logo="https://x1.cdn.broiptv.online/img/bioskopindonesia.png" group-title="MOVIES", Bioskop Indonesia
-http://agsgroup.online/play/trial@agsgroup.online/02200220/W6EvwXM4/rattus/bioskop_indonesia_rattus/playlist.m3u8
-#EXTINF: -1 tvg-name="Flik" tvg-logo="https://x1.cdn.broiptv.online/img/flik.png" group-title="MOVIES", Flik
-http://agsgroup.online/play/trial@agsgroup.online/02200220/W6EvwXM4/rattus/flik_rattus/playlist.m3u8
-#EXTINF: -1 tvg-name="Galaxy" tvg-logo="https://x1.cdn.broiptv.online/img/galaxy.png" group-title="MOVIES", Galaxy
-http://agsgroup.online/play/trial@agsgroup.online/02200220/W6EvwXM4/rattus/galaxy_rattus/playlist.m3u8
-#EXTINF: -1 tvg-name="ZBioskop" tvg-logo="https://x1.cdn.broiptv.online/img/zbioskop.png" group-title="MOVIES", ZBioskop
-http://agsgroup.online/play/trial@agsgroup.online/02200220/W6EvwXM4/rattus/zbioskop_rattus/playlist.m3u8
-#EXTINF: -1 tvg-name="ZBioskop (Backup)" tvg-logo="https://x1.cdn.broiptv.online/img/zbioskop.png" group-title="MOVIES", ZBioskop (Backup)
-http://agsgroup.online/play/trial@agsgroup.online/02200220/W6EvwXM4/gerbil/zee_bioskop_gerbil/playlist.m3u8
-#EXTINF: -1 tvg-name="Citra Bioskop" tvg-logo="https://x1.cdn.broiptv.online/img/citrabioskop.png" group-title="MOVIES", Citra Bioskop
-http://agsgroup.online/play/trial@agsgroup.online/02200220/W6EvwXM4/gerbil/citra_bioskop_gerbil/playlist.m3u8
-#EXTINF: -1 tvg-name="HBO HD" tvg-logo="https://x1.cdn.broiptv.online/img/hbo.png" group-title="MOVIES", HBO HD
-http://agsgroup.online/play/trial@agsgroup.online/02200220/W6EvwXM4/wirok/hbo_hd_wirok/playlist.m3u8
-#EXTINF: -1 tvg-name="HBO Signature" tvg-logo="https://x1.cdn.broiptv.online/img/hbo_signature.png" group-title="MOVIES", HBO Signature
-http://agsgroup.online/play/trial@agsgroup.online/02200220/W6EvwXM4/wirok/hbo_signature_wirok/playlist.m3u8
-#EXTINF: -1 tvg-name="HBO Hits" tvg-logo="https://x1.cdn.broiptv.online/img/hbo_hits.png" group-title="MOVIES", HBO Hits
-http://agsgroup.online/play/trial@agsgroup.online/02200220/W6EvwXM4/wirok/hbo_hits_wirok/playlist.m3u8
-#EXTINF: -1 tvg-name="HBO Family" tvg-logo="https://x1.cdn.broiptv.online/img/hbo_family.png" group-title="MOVIES", HBO Family
-http://agsgroup.online/play/trial@agsgroup.online/02200220/W6EvwXM4/wirok/hbo_family_wirok/playlist.m3u8
-#EXTINF: -1 tvg-name="Cinemax" tvg-logo="https://x1.cdn.broiptv.online/img/cinemax.png" group-title="MOVIES", Cinemax
-http://agsgroup.online/play/trial@agsgroup.online/02200220/W6EvwXM4/wirok/cinemax_wirok/playlist.m3u8
-#EXTINF: -1 tvg-name="Red By HBO" tvg-logo="https://x1.cdn.broiptv.online/img/redbyhbo.png" group-title="MOVIES", Red By HBO
-http://agsgroup.online/play/trial@agsgroup.online/02200220/W6EvwXM4/wirok/red_by_hbo_wirok/playlist.m3u8
-#EXTINF: -1 tvg-name="Fox Movies Premium" tvg-logo="https://x1.cdn.broiptv.online/img/fox_movies.png" group-title="MOVIES", Fox Movies Premium
-http://agsgroup.online/play/trial@agsgroup.online/02200220/W6EvwXM4/norvegicus/fox_movies_premium_norvegicus/playlist.m3u8
-#EXTINF: -1 tvg-name="Fox Family Movies" tvg-logo="https://x1.cdn.broiptv.online/img/fox_family.png" group-title="MOVIES", Fox Family Movies
-http://agsgroup.online/play/trial@agsgroup.online/02200220/W6EvwXM4/norvegicus/fox_family_movies_norvegicus/playlist.m3u8
-#EXTINF: -1 tvg-name="Fox Action Movies" tvg-logo="https://x1.cdn.broiptv.online/img/fox_action.png" group-title="MOVIES", Fox Action Movies
-http://agsgroup.online/play/trial@agsgroup.online/02200220/W6EvwXM4/norvegicus/fox_action_movies_norvegicus/playlist.m3u8
-#EXTINF: -1 tvg-name="Fox" tvg-logo="https://x1.cdn.broiptv.online/img/fox.png" group-title="MOVIES", Fox
-http://agsgroup.online/play/trial@agsgroup.online/02200220/W6EvwXM4/norvegicus/fox_norvegicus/playlist.m3u8
-#EXTINF: -1 tvg-name="Fox Crime" tvg-logo="https://x1.cdn.broiptv.online/img/fox_crime.png" group-title="MOVIES", Fox Crime
-http://agsgroup.online/play/trial@agsgroup.online/02200220/W6EvwXM4/norvegicus/fox_crime_norvegicus/playlist.m3u8
-#EXTINF: -1 tvg-name="Fox Life" tvg-logo="https://x1.cdn.broiptv.online/img/fox_life.png" group-title="MOVIES", Fox Life
-http://agsgroup.online/play/trial@agsgroup.online/02200220/W6EvwXM4/norvegicus/fox_life_norvegicus/playlist.m3u8
-#EXTINF: -1 tvg-name="FX" tvg-logo="https://x1.cdn.broiptv.online/img/fx.png" group-title="MOVIES", FX
-http://agsgroup.online/play/trial@agsgroup.online/02200220/W6EvwXM4/norvegicus/fx_norvegicus/playlist.m3u8
-#EXTINF: -1 tvg-name="tvn Movies" tvg-logo="https://x1.cdn.broiptv.online/img/tvnmovies.png" group-title="MOVIES", tvn Movies
-http://agsgroup.online/play/trial@agsgroup.online/02200220/W6EvwXM4/norvegicus/tvn_movies_norvegicus/playlist.m3u8
-#EXTINF: -1 tvg-name="Star Chinese Movies" tvg-logo="https://x1.cdn.broiptv.online/img/scm.png" group-title="MOVIES", Star Chinese Movies
-http://agsgroup.online/play/trial@agsgroup.online/02200220/W6EvwXM4/norvegicus/star_chinese_movies_norvegicus/playlist.m3u8
-#EXTINF: -1 tvg-name="HITS MOVIES" tvg-logo="https://x1.cdn.broiptv.online/img/hits_movies.png" group-title="MOVIES", HITS MOVIES
-http://agsgroup.online/play/trial@agsgroup.online/02200220/W6EvwXM4/norvegicus/hits_movies_norvegicus/playlist.m3u8
-#EXTINF: -1 tvg-name="Celestial Classic Movies" tvg-logo="https://x1.cdn.broiptv.online/img/ccm.png" group-title="MOVIES", Celestial Classic Movies
-http://agsgroup.online/play/trial@agsgroup.online/02200220/W6EvwXM4/norvegicus/celestial_classic_movies_norvegicus/playlist.m3u8
-#EXTINF: -1 tvg-name="Astro Boo" tvg-logo="https://x1.cdn.broiptv.online/img/astro_boo.png" group-title="MOVIES", Astro Boo
-http://agsgroup.online/play/trial@agsgroup.online/02200220/W6EvwXM4/norvegicus/astro_boo_norvegicus/playlist.m3u8
-#EXTINF: -1 tvg-name="amc" tvg-logo="https://x1.cdn.broiptv.online/img/amc.png" group-title="MOVIES", amc
-http://agsgroup.online/play/trial@agsgroup.online/02200220/W6EvwXM4/norvegicus/amc_norvegicus/playlist.m3u8
-#EXTINF: -1 tvg-name="HITS" tvg-logo="https://x1.cdn.broiptv.online/img/hits.png" group-title="MOVIES", HITS
-http://agsgroup.online/play/trial@agsgroup.online/02200220/W6EvwXM4/pratensis/hits_pratensis/playlist.m3u8
-#EXTINF: -1 tvg-name="Sinema Indonesia" tvg-logo="https://x1.cdn.broiptv.online/img/sinema_indonesia.png" group-title="MOVIES", Sinema Indonesia
-http://agsgroup.online/play/trial@agsgroup.online/02200220/W6EvwXM4/pratensis/sinema_indonesia_pratensis/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.ytimg.com/vi/HXEM5D9K9L0/maxresdefault.jpg" group-title="Film", Dunia Sinema
+http://62.210.246.131:25461/gxfgss/HHVVPP/28681?token=HhVYAkpZQF8XBlJaDwdeCQUGVQFVWlMDB1AAUVQHD1VQUwNaXAZaVlcTThtFQ0pVUlk6X1QaWVNdBABSG0dDEgBFbwpdE1hHBAdaCA4CGhwRQAxbVRpZUFAKC1IBUQBXUxsSE1BVQF9bRA5VGhVdSEdRF1hRVDwFAERRAFJHDA8QW1xPG14MOlFUD1hYUxoKEQVHGhJREBFHCFYWWwkaQwdeRBFYRQdHD18XVVobGlNcQQtCQkFBW0d%2FYUEbR1MZEVJeEFBeDEcPExZKFBsaWUBrF1NDTBEEBF9dERVfFFFHGxIOWEk9BlpfDFxVQ1FfXUdHDBIJQU1HX1cNXhFZEzpHWQcbCwwQWV0f
+#EXTINF: -1 tvg-logo="https://www.tm.com.my/hypptvdatabase/Channels/hypp-inspirasi.png" group-title="Film", Hypp Sensasi
+http://62.210.246.131:25461/gxfgss/HHVVPP/28664?token=HhVYAkpZQF8XVVUMVAFcA1ANA1RWXlNYVQddBVRdUFNRDghRXARbXVQTThtFQ0pVUlk6X1QaWVNdBQFUG0dDEgBFbwpdE1hHBAdaCA4CGhwRQAxbVRpZUFAKClQHVwVQXRsSE1BVQF8XAlMKBQ4aHBFRHUJVSg0ACW1cBkEMVQRHDV4WVV1OR1pfPV1TWlleVxZfFAEaT0MMQUhBDQtDDQkbEgFQRRAEQVRAAxQGCgEAFkkUU1cWDxFAQUENR3s4RxsSBkFFBwtGWA1XFA0aREAWSRRZSzwTAEFMEVIEWwQXFQpBCRNOR1hQGmZVWFZeVlcRX19WEENfEAlBG0dbDgteRAxLbhIMURNYGwEOCgERSQ==
+#EXTINF: -1 tvg-id="Dummy" tvg-logo="https://i1.wp.com/tva.onscreenasia.com/wp-content/uploads/2016/03/image008.png?fit=190%2C217&ssl=1" group-title="Film", FOX ACTION MOVIES
+http://62.210.246.131:25461/live/gxfgss/HHVVPP/28775.ts?token=HhVYAkpZQF8XBlJaDwdeCQUGVQFVWlMDB1AAUVQHD1VQUwNaXAZaVlcTThtFQ0pVUlk6X1QaWVNdBABSG0dDEgBFbwpdE1hHBAdaCA4CGhwRQAxbVRpZUFAKC1IBUQBXUxsSE1BVQF9bRA5VGhVdSEdRF1hRVDwFAERRAFJHDA8QW1xPG14MOlFUD1hYUxoKEQVHGhJREBFHCFYWWwkaQwdeRBFYRQdHD18XVVobGlNcQQtCQkFBW0d%2FYUEbR1MZEVJeEFBeDEcPExZKFBsaWUBrF1NDTBEEBF9dERVfFFFHGxIOWEk9BlpfDFxVQ1FfXUdHDBIJQU1HX1cNXhFZEzpHWQcbCwwQWV0f
+#EXTINF: -1 tvg-id="Dummy" tvg-logo="https://seeklogo.com/images/F/fox-movies-premium-logo-BA0887F20E-seeklogo.com.png" group-title="Film", FOX MOVIES PREMIUM
+http://62.210.246.131:25461/live/gxfgss/HHVVPP/28774.ts?token=HhVYAkpZQF8XBlJaDwdeCQUGVQFVWlMDB1AAUVQHD1VQUwNaXAZaVlcTThtFQ0pVUlk6X1QaWVNdBABSG0dDEgBFbwpdE1hHBAdaCA4CGhwRQAxbVRpZUFAKC1IBUQBXUxsSE1BVQF9bRA5VGhVdSEdRF1hRVDwFAERRAFJHDA8QW1xPG14MOlFUD1hYUxoKEQVHGhJREBFHCFYWWwkaQwdeRBFYRQdHD18XVVobGlNcQQtCQkFBW0d%2FYUEbR1MZEVJeEFBeDEcPExZKFBsaWUBrF1NDTBEEBF9dERVfFFFHGxIOWEk9BlpfDFxVQ1FfXUdHDBIJQU1HX1cNXhFZEzpHWQcbCwwQWV0f
+#EXTINF: -1 tvg-id="HBO.id" tvg-logo="https://macan.live/img/hbo.png" group-title="Film", HBO HD
+http://tvku.live:8888/8507806581/0967909012/4828
+#EXTINF: -1 tvg-id="HBOHits.id" tvg-logo="https://macan.live/img/hbo_hits.png" group-title="Film", HBO Hits HD
+http://tvku.live:8888/8507806581/0967909012/4829
+#EXTINF: -1 tvg-id="HBOFamily.id" tvg-logo="https://macan.live/img/hbo_family.png" group-title="Film", HBO Family HD
+http://tvku.live:8888/8507806581/0967909012/4830
+#EXTINF: -1 tvg-id="HBOSignature.id" tvg-logo="https://macan.live/img/hbo_signature.png" group-title="Film", HBO Signature HD
+http://tvku.live:8888/8507806581/0967909012/4831
+#EXTINF: -1 tvg-id="RED.id" tvg-logo="https://macan.live/img/red_hbo.png" group-title="Film", Red By HBO HD
+http://tvku.live:8888/8507806581/0967909012/4832
+#EXTINF: -1 tvg-id="CineMax.id" tvg-logo="https://macan.live/img/cinemaxa.png" group-title="Film", Cinemax HD
+http://tvku.live:8888/8507806581/0967909012/4833
+#EXTINF: -1 tvg-logo="https://www.tm.com.my/hypptvdatabase/Channels/pesona.png" group-title="Film", Pesona HD
+http://62.210.246.131:25461/gxfgss/HHVVPP/28651?token=HhVYAkpZQF8XVVUMVAFcA1ANA1RWXlNYVQddBVRdUFNRDghRXARbXVQTThtFQ0pVUlk6X1QaWVNdBQFUG0dDEgBFbwpdE1hHBAdaCA4CGhwRQAxbVRpZUFAKClQHVwVQXRsSE1BVQF8XAlMKBQ4aHBFRHUJVSg0ACW1cBkEMVQRHDV4WVV1OR1pfPV1TWlleVxZfFAEaT0MMQUhBDQtDDQkbEgFQRRAEQVRAAxQGCgEAFkkUU1cWDxFAQUENR3s4RxsSBkFFBwtGWA1XFA0aREAWSRRZSzwTAEFMEVIEWwQXFQpBCRNOR1hQGmZVWFZeVlcRX19WEENfEAlBG0dbDgteRAxLbhIMURNYGwEOCgERSQ
+#EXTINF: -1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/FXM_Logo.svg/1200px-FXM_Logo.svg.png" group-title="Film", FX MOVIES
+http://62.210.246.131:25461/live/gxfgss/HHVVPP/28782.ts?token=HhVYAkpZQF8XCVUPBQIJVFJVUwEHXltQAVcNWwNcVFgEVAcCX1MAUVETThtFQ0pVUlk6X1QaWVNdBQBRG0dDEgBFbwpdE1hHBAdaCA4CGhwRQAxbVRpZUFAKClQHVwRUVhsSE1BVQF8XA1QMAwUaHBFRHUJVSg0ACW1cBkEMVQRHDV4WVV1OR1pfPV1TWlleVxZfFAEaT0MMQUhBDQtDDQkbEgFQRRAEQVRAAxQGCgABFkkUU1cWDxFAQUENR3s4RxsSBkFFBwtGWA1XFA0aREAWSRRZSzwTAEFMEVIEWwQXFQpBCRNOR1hQGmZVWFZeVlcRX19WEENfEAlBG0dbDgteRAxLbhIMURNYGwcEAAICFhg
+#EXTINF: -1 tvg-id="Dummy" tvg-logo="https://4vector.com/i/free-vector-fox-logo_091569_Fox_logo.png" group-title="Film", FOX
+http://62.210.246.131:25461/live/gxfgss/HHVVPP/28777.ts?token=HhVYAkpZQF8XBgFYBw8NBQJSAFUDWlJVVlMNWwBXVAJTVAFSXFRRUQETThtFQ0pVUlk6X1QaWVNdBQ9UG0dDEgBFbwpdE1hHBAdaCA4CGhwRQAxbVRpZUFAKClQHVwdXUBsSE1BVQF8XAlUNFBsaVUtAAEReWQ8+AVdOClQAFFsLQlwPFRMNC2pVB1RXWVwSCRZUFBwaChIVEAINQglaTUdVWRdLUBYAFwtACAQGCxIfFgZZRVYXExwQAkF6PBRNR1JIF1xfEQxaX0ADFENLEh8WDEVvSgYSEUBdAloARENfFQBBFRMPBE1uAVZYWV1TR10KWEMaWUNUEBRBWgpYCBFYQjxJWAZHDxNTCQ4BDxJO
+#EXTINF: -1 tvg-id="Dummy" tvg-logo="https://www.asiasat.com/channelguide/images/fox_life_asia.png" group-title="Film", FOX LIFE
+http://62.210.246.131:25461/live/gxfgss/HHVVPP/28776.ts?token=HhVYAkpZQF8XAlcBVwJeBQQHA1cICAVSUQMPWgBcAVRQDwJUWghWVAcTThtFQ0pVUlk6X1QaWVNdBQ9VG0dDEgBFbwpdE1hHBAdaCA4CGhwRQAxbVRpZUFAKClQHVwdTVxsSE1BVQF8XAlMAAQIaHBFRHUJVSg0ACW1cBkEMVQRHDV4WVV1OR1pfPV1TWlleVxZfFAEaT0MMQUhBDQtDDQkbEgFQRRAEQVRAAxQGCgALFkkUU1cWDxFAQUENR3s4RxsSBkFFBwtGWA1XFA0aREAWSRRZSzwTAEFMEVIEWwQXFQpBCRNOR1hQGmZVWFZeVlcRX19WEENfEAlBG0dbDgteRAxLbhIMURNYGwQOCwQFFhg
+#EXTINF: -1 tvg-id="Dummy" tvg-logo="https://i.pinimg.com/originals/3e/1e/e6/3e1ee6a0fb1bb1859a462a15ca4ecd12.png" group-title="Film", FOX CRIME
+http://62.210.246.131:25461/live/gxfgss/HHVVPP/28779.ts?token=HhVYAkpZQF8XCVIPAFMLBAYHBwVWXFICVFNdUg8DDgNUBwJQWlRVUAUTThtFQ0pVUlk6X1QaWVNdBQ9aG0dDEgBFbwpdE1hHBAdaCA4CGhwRQAxbVRpZUFAKClUCUABQURsSE1BVQF8XBFYBBhUUElZMEVNCVgINOlZdFV4GU0NfWUUPVR1ACltuBlxbVlZUEQ5HBxIUQQgWQhpZWRBaDUkVUgpNQwMRUBNYGwcFCQERGEdVX00NFRdLGlkVKG9DSRVVG01UDBZcXgwbDBVMQxEYR19DZxEEFkZKBlYIUxNHDRJTGx1ACFRJPVpZWVZVUEAMWV5LQVtHAxpPFQhZDwxDXxFmQQsBFwtADg4AGk0
+#EXTINF: -1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c8/FOXFamilyMovies_logo_2.png" group-title="Film", FOX FAMILY MOVIES
+http://62.210.246.131:25461/live/gxfgss/HHVVPP/28778.ts?token=HhVYAkpZQF8XVFEAAwJeBwoMAQAAC1RXAQVbB1ZSBlJUBQFXCgkHU1cTThtFQ0pVUlk6X1QaWVNdBQ9bG0dDEgBFbwpdE1hHBAdaCA4CGhwRQAxbVRpZUFAKClQHVA9TXBsSE1BVQF8XAFYOBQ4aHBFRHUJVSg0ACW1cBkEMVQRHDV4WVV1OR1pfPV1TWlleVxZfFAEaT0MMQUhBDQtDDQkbEgFQRRAEQVRAAxQGCgALFkkUU1cWDxFAQUENR3s4RxsSBkFFBwtGWA1XFA0aREAWSRRZSzwTAEFMEVIEWwQXFQpBCRNOR1hQGmZVWFZeVlcRX19WEENfEAlBG0dbDgteRAxLbhIMURNYGwQOCgUHFhg
+#EXTINF: -1 tvg-id="Dummy" tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/media-upload/1454466814_logo-celestial-classic-movies.jpg" group-title="Film", CCM Clasic
+http://62.210.246.131:25461/live/gxfgss/HHVVPP/28802.ts?token=HhVYAkpZQF8XBgYOV1EKAwMCUQMGDwAAAQRcVwFdVFNRUgECCghQVAATThtFQ0pVUlk6X1QaWVNdCghbG0dDEgBFbwpdE1hHBAdaCA4CGhwRQAxbVRpZUFAKC1IHXQdWVhsSE1BVQF8XAFEBAAIaHBFRHUJVSg0ACW1cBkEMVQRHDV4WVV1OR1pfPV1TWlleVxZfFAEaT0MMQUhBDQtDDQkbEgFQRRAEQVRAAxQGCgEAFkkUU1cWDxFAQUENR38lRxsSBkFFBwtGWA1XFA0aREAWSRRZSzwTAEFMEVIEWwQXFQpBCRNOR1hQGmZVWFZeVlcRX19WEENfEAlBG0dbDgteRAxLbhIMURNYGwcGDwYLFhg
+#EXTINF: -1 tvg-id="Dummy" tvg-logo="https://seeklogo.com/images/F/fox-movies-premium-logo-BA0887F20E-seeklogo.com.png" group-title="Film", Star Chines
+http://62.210.246.131:25461/live/gxfgss/HHVVPP/28743.ts?token=HhVYAkpZQF8XBlJaDwdeCQUGVQFVWlMDB1AAUVQHD1VQUwNaXAZaVlcTThtFQ0pVUlk6X1QaWVNdBABSG0dDEgBFbwpdE1hHBAdaCA4CGhwRQAxbVRpZUFAKC1IBUQBXUxsSE1BVQF9bRA5VGhVdSEdRF1hRVDwFAERRAFJHDA8QW1xPG14MOlFUD1hYUxoKEQVHGhJREBFHCFYWWwkaQwdeRBFYRQdHD18XVVobGlNcQQtCQkFBW0d%2FYUEbR1MZEVJeEFBeDEcPExZKFBsaWUBrF1NDTBEEBF9dERVfFFFHGxIOWEk9BlpfDFxVQ1FfXUdHDBIJQU1HX1cNXhFZEzpHWQcbCwwQWV0f
+#EXTINF: -1 tvg-id="Dummy" tvg-logo="https://seeklogo.com/images/F/fox-movies-premium-logo-BA0887F20E-seeklogo.com.png" group-title="Film", FMN
+http://62.210.246.131:25461/live/gxfgss/HHVVPP/28783.ts?token=HhVYAkpZQF8XBgYOV1EKAwMCUQMGDwAAAQRcVwFdVFNRUgECCghQVAATThtFQ0pVUlk6X1QaWVNdCghbG0dDEgBFbwpdE1hHBAdaCA4CGhwRQAxbVRpZUFAKC1IHXQdWVhsSE1BVQF8XAFEBAAIaHBFRHUJVSg0ACW1cBkEMVQRHDV4WVV1OR1pfPV1TWlleVxZfFAEaT0MMQUhBDQtDDQkbEgFQRRAEQVRAAxQGCgEAFkkUU1cWDxFAQUENR38lRxsSBkFFBwtGWA1XFA0aREAWSRRZSzwTAEFMEVIEWwQXFQpBCRNOR1hQGmZVWFZeVlcRX19WEENfEAlBG0dbDgteRAxLbhIMURNYGwcGDwYLFhg
+#EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channeliptv/logogrey/grey_logo_citradrama_small.png" group-title="Film", Citra Drama
+https://dl.dropbox.com/s/7fr4ogwy8pmpn2s/citra.m3u8?dl=0
+#EXTINF: -1 tvg-logo="https://3.bp.blogspot.com/-mfeJx_25ejo/UsauoVd_daI/AAAAAAAAAoo/0OcxivAebQc/s1600/Galaxytv.jpg" group-title="Film", Galaxi
+https://dl.dropbox.com/s/dolswngu7t4xd9e/galaxi.m3u8?dl=0
+#EXTINF: -1 tvg-logo="https://3.bp.blogspot.com/-mfeJx_25ejo/UsauoVd_daI/AAAAAAAAAoo/0OcxivAebQc/s1600/Galaxytv.jpg" group-title="Film", Warner
+https://vcdnjt.useetv.com/joss/15/warner/chunklist_w447548822_b894100_sleng.m3u8_80931.m3u8
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/WakuWaku_Japan_logo.svg/1200px-WakuWaku_Japan_logo.svg.png" group-title="Film", Waku Waku Japan
+https://vcdnjt.useetv.com/joss/15/wakuwaku/chunklist_w1503209643_b894100_sleng_80932.m3u8
+#EXTINF: -1 tvg-logo="https://www.k-vision.tv/uploads/2018/08/xzeebioskop.png.pagespeed.ic.jUSkZudEpF.png" group-title="Film", Zee Bioskop
+https://livetvhooq.akamaized.net/ed9f674616594d96bbe00f93ab8d7672/eu-central-1/5493668622001/profile_3/chunklist.m3u8?hdnts=st=1576169705~exp=9007200830910696~acl=/ed9f674616594d96bbe00f93ab8d7672/*/profile_3/chunklist.m3u8*~hmac=c464efdac528cb4b0e4c27ada7a0480ce7bce6030e39ab45e36833b4bc9b9fbd
+#EXTINF: -1 tvg-logo="https://i0.wp.com/www.candra.web.id/wp-content/uploads/2020/02/UseeTV.png" group-title="Film", IMC
+https://vcdnjt.useetv.com/joss/14/imc/chunklist_w302021241_b684100_sleng_80933.m3u8
+#EXTINF: -1 tvg-logo="https://i0.wp.com/www.candra.web.id/wp-content/uploads/2020/02/UseeTV.png" group-title="Film", IFLIX
+https://vcdnjt.useetv.com/joss/15/flik/chunklist_w716575246_b894100_sleng_80934.m3u8
+#EXTINF: -1 tvg-logo="http://www.dens.tv/images/channel-logo/95.jpg" group-title="Film", MY CINEMA
+http://45.126.83.51/x6bnqe/s/s31/index2.m3u8
+#EXTINF: -1 tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/media-upload/1454466814_logo-celestial-classic-movies.jpg" group-title="Film", Celestial Clasic Movie MY
+http://198.16.106.58:8278/Celestial2/playlist.m3u8?tid=m03966631607716516899&ct=18379&tsum=5a4968b6104b12bfea1bf5cf4a386f5c
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/af/CMC_English_full_color_black_text_2.jpg" group-title="Film", CELESTIAL MOVIE ID
+https://vcdnjt.useetv.com/joss/14/celestialmovie/chunklist_w710341554_b684100_sleng_80935.m3u8
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/2000px-KIX_logo.svg.png" group-title="Film", KIX
+https://vcdnjt.useetv.com/joss/15/kix/chunklist_w1184239599_b894100_sleng.m3u8_80936.m3u8
+#EXTINF: -1 tvg-logo="https://vignette.wikia.nocookie.net/tolololpedia/images/9/9a/Logo-Thrill.jpg/revision/latest?cb=20130314023401" group-title="Film", thrill
+https://vcdnjt.useetv.com/joss/14/thrill/chunklist_w1335750766_b684100_sleng_80937.m3u8
+#EXTINF: -1 tvg-logo="https://pbs.twimg.com/profile_images/774051942431612928/voB4vZ2Q_400x400.jpg" group-title="Film", AXN
+https://vcdnjt.useetv.com/joss/15/axn/chunklist_w1108871756_b894100_sleng.m3u8_80938.m3u8
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/FOX_wordmark.svg" group-title="Film", Fox Life Indo
+https://stream.suryaiptv.net/streams/109_.m3u8
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/FOX_wordmark.svg" group-title="Film", Fox HD Indo
+https://stream.suryaiptv.net/streams/107_.m3u8
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/FOX_wordmark.svg" group-title="Film", Etam Channel
+https://stream.suryaiptv.net/streams/2_.m3u8
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Blue_ant_extreme_logo.png" group-title="Film", BLUE ANT EXTREME
+https://vcdnjt.useetv.com/joss/14/blueant/chunklist_w1275974204_b684100_sleng_80939.m3u8
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Blue_ant_entertainment_logo.png" group-title="Film", Blue Ant Entertainment
+https://vcdnjt.useetv.com/joss/14/blueantextreme/chunklist_w1863547509_b684100_sleng_80920.m3u8
+#EXTINF: -1 tvg-logo="https://st2.depositphotos.com/3969727/9519/v/950/depositphotos_95197520-stock-illustration-cinema-word-written-spray-paint.jpg" group-title="Film", CINEMA WORD
+https://vcdnjt.useetv.com/joss/14/cinemaworld/chunklist_w538188540_b684100_sleng_80921.m3u8
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0b/Hits_TV_Asia_logo.jpg" group-title="Film", HITS
+http://210.210.155.66/h/h37/index2.m3u8
+#EXTINF: -1 tvg-logo="https://www.rdcablenet.com/wp-content/uploads/2019/01/ANDFLIX-HD.jpg" group-title="Film", &FLIX
+http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/andflixhd/index.m3u8
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0b/Hits_TV_Asia_logo.jpg" group-title="Film", WOWOW MOVIES
+http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8?wowzasessionid=1300220279
+#EXTINF: -1 tvg-logo="https://i0.wp.com/www.candra.web.id/wp-content/uploads/2020/02/UseeTV.png" group-title="Film", THRILL
+http://210.210.155.35/session/5fa607b4-c313-11e8-ac17-b82a72d63267/qwr9ew/s/s34/01.m3u8
+#EXTINF: -1 tvg-logo="https://www.nowonsocmed.com/iptv/logo/raimovie.png" group-title="Film", Ray Movie
+http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
+#EXTINF: -1 tvg-logo="https://i0.wp.com/www.candra.web.id/wp-content/uploads/2020/02/UseeTV.png" group-title="Film", CBS
+http://161.0.157.50/PLTV/88888888/224/3221227041/index.m3u8
+#EXTINF: -1 tvg-logo="https://i0.wp.com/www.candra.web.id/wp-content/uploads/2020/02/UseeTV.png" group-title="Film", HBO
+http://161.0.157.38/PLTV/88888888/224/3221226127/index.m3u8
+#EXTINF: -1 tvg-logo="https://i0.wp.com/www.candra.web.id/wp-content/uploads/2020/02/UseeTV.png" group-title="Film", HBO 2
+http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8?fluxustv.m3u8
+#EXTINF: -1 tvg-logo="https://i0.wp.com/www.candra.web.id/wp-content/uploads/2020/02/UseeTV.png" group-title="Film", FOX MOVIES PREMIUM
+http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8
+#EXTINF: -1 tvg-logo="https://i0.wp.com/www.candra.web.id/wp-content/uploads/2020/02/UseeTV.png" group-title="Film", FOX MOVIES COMEDY
+http://161.0.157.9/PLTV/88888888/224/3221226800/03.m3u8
+#EXTINF: -1 tvg-logo="https://i0.wp.com/www.candra.web.id/wp-content/uploads/2020/02/UseeTV.png" group-title="Film", FOX MOVIES
+http://streaming.i-sat.tv:8081/livestream/fox/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i0.wp.com/www.candra.web.id/wp-content/uploads/2020/02/UseeTV.png" group-title="Film", FOX MOVIES HD
+http://streaming.i-sat.tv:8081/livestream/fox/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i0.wp.com/www.candra.web.id/wp-content/uploads/2020/02/UseeTV.png" group-title="Film", byuTV
+https://byubhls-i.akamaihd.net/hls/live/267187/byutvhls/master_4064.m3u8
+#EXTINF: -1 tvg-logo="https://i0.wp.com/www.candra.web.id/wp-content/uploads/2020/02/UseeTV.png" group-title="Film", SHOWTIME HD
+http://80.80.160.168/live/7/live.m3u8
