@@ -7,18 +7,25 @@ http://62.210.246.131:25461/gxfgss/HHVVPP/28664?token=HhVYAkpZQF8XVVUMVAFcA1ANA1
 http://62.210.246.131:25461/live/gxfgss/HHVVPP/28775.ts?token=HhVYAkpZQF8XBlJaDwdeCQUGVQFVWlMDB1AAUVQHD1VQUwNaXAZaVlcTThtFQ0pVUlk6X1QaWVNdBABSG0dDEgBFbwpdE1hHBAdaCA4CGhwRQAxbVRpZUFAKC1IBUQBXUxsSE1BVQF9bRA5VGhVdSEdRF1hRVDwFAERRAFJHDA8QW1xPG14MOlFUD1hYUxoKEQVHGhJREBFHCFYWWwkaQwdeRBFYRQdHD18XVVobGlNcQQtCQkFBW0d%2FYUEbR1MZEVJeEFBeDEcPExZKFBsaWUBrF1NDTBEEBF9dERVfFFFHGxIOWEk9BlpfDFxVQ1FfXUdHDBIJQU1HX1cNXhFZEzpHWQcbCwwQWV0f
 #EXTINF: -1 tvg-id="Dummy" tvg-logo="https://seeklogo.com/images/F/fox-movies-premium-logo-BA0887F20E-seeklogo.com.png" group-title="Film", FOX MOVIES PREMIUM
 http://62.210.246.131:25461/live/gxfgss/HHVVPP/28774.ts?token=HhVYAkpZQF8XBlJaDwdeCQUGVQFVWlMDB1AAUVQHD1VQUwNaXAZaVlcTThtFQ0pVUlk6X1QaWVNdBABSG0dDEgBFbwpdE1hHBAdaCA4CGhwRQAxbVRpZUFAKC1IBUQBXUxsSE1BVQF9bRA5VGhVdSEdRF1hRVDwFAERRAFJHDA8QW1xPG14MOlFUD1hYUxoKEQVHGhJREBFHCFYWWwkaQwdeRBFYRQdHD18XVVobGlNcQQtCQkFBW0d%2FYUEbR1MZEVJeEFBeDEcPExZKFBsaWUBrF1NDTBEEBF9dERVfFFFHGxIOWEk9BlpfDFxVQ1FfXUdHDBIJQU1HX1cNXhFZEzpHWQcbCwwQWV0f
-#EXTINF: -1 tvg-id="HBO.id" tvg-logo="https://macan.live/img/hbo.png" group-title="Film", HBO HD
-http://tvku.live:8888/8507806581/0967909012/4828
-#EXTINF: -1 tvg-id="HBOHits.id" tvg-logo="https://macan.live/img/hbo_hits.png" group-title="Film", HBO Hits HD
-http://tvku.live:8888/8507806581/0967909012/4829
-#EXTINF: -1 tvg-id="HBOFamily.id" tvg-logo="https://macan.live/img/hbo_family.png" group-title="Film", HBO Family HD
-http://tvku.live:8888/8507806581/0967909012/4830
-#EXTINF: -1 tvg-id="HBOSignature.id" tvg-logo="https://macan.live/img/hbo_signature.png" group-title="Film", HBO Signature HD
-http://tvku.live:8888/8507806581/0967909012/4831
-#EXTINF: -1 tvg-id="RED.id" tvg-logo="https://macan.live/img/red_hbo.png" group-title="Film", Red By HBO HD
-http://tvku.live:8888/8507806581/0967909012/4832
-#EXTINF: -1 tvg-id="CineMax.id" tvg-logo="https://macan.live/img/cinemaxa.png" group-title="Film", Cinemax HD
-http://tvku.live:8888/8507806581/0967909012/4833
+
+#EXTINF:-1 tvg-id="HBO.id" tvg-name="HBO" tvg-logo="http://www.transvision.co.id/images/channel/hbo_hd.png" group-title="Movie",HBO
+http://mantul.biz.id:8888/live/boskow/87ue/1.m3u8
+
+#EXTINF:-1 tvg-id="HBOHits.id" tvg-name="HBO Hits" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fc/HBOHits-ASIA.png/370px-HBOHits-ASIA.png" group-title="Movie",HBO Hits
+http://mantul.biz.id:8888/live/boskow/87ue/3.m3u8
+
+#EXTINF:-1 tvg-id="HBOFamily.id" tvg-name="HBO Family FHD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/93/HBO_Family_Asia.svg/revision/latest/scale-to-width-down/340?cb=20100511073654" group-title="FHD",HBO Family FHD
+http://mantul.biz.id:8888/live/boskow/87ue/6.m3u8
+
+#EXTINF:-1 tvg-id="HBOSignature.id" tvg-name="HBO Signature" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="Movie",HBO Signature
+http://mantul.biz.id:8888/live/boskow/87ue/44.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Red by HBO" tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/plans-and-bundles/1443770018_screen-red-sd-new.png" group-title="Movie",Red by HBO
+http://mantul.biz.id:8888/live/boskow/87ue/242.m3u8
+
+#EXTINF:-1 tvg-id="CineMax.id" tvg-name="Cinemax" tvg-logo="http://www.transvision.co.id/images/channel/cinemax_new.png" group-title="Movie",Cinemax
+http://mantul.biz.id:8888/live/boskow/87ue/1029.m3u8
+
 #EXTINF: -1 tvg-logo="https://www.tm.com.my/hypptvdatabase/Channels/pesona.png" group-title="Film", Pesona HD
 http://62.210.246.131:25461/gxfgss/HHVVPP/28651?token=HhVYAkpZQF8XVVUMVAFcA1ANA1RWXlNYVQddBVRdUFNRDghRXARbXVQTThtFQ0pVUlk6X1QaWVNdBQFUG0dDEgBFbwpdE1hHBAdaCA4CGhwRQAxbVRpZUFAKClQHVwVQXRsSE1BVQF8XAlMKBQ4aHBFRHUJVSg0ACW1cBkEMVQRHDV4WVV1OR1pfPV1TWlleVxZfFAEaT0MMQUhBDQtDDQkbEgFQRRAEQVRAAxQGCgEAFkkUU1cWDxFAQUENR3s4RxsSBkFFBwtGWA1XFA0aREAWSRRZSzwTAEFMEVIEWwQXFQpBCRNOR1hQGmZVWFZeVlcRX19WEENfEAlBG0dbDgteRAxLbhIMURNYGwEOCgERSQ
 #EXTINF: -1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/FXM_Logo.svg/1200px-FXM_Logo.svg.png" group-title="Film", FX MOVIES
