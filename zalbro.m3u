@@ -1,100 +1,88 @@
-#EXTINF:-1 tvg-chno="157" tvg-id="celestialmovies.id" tvg-name="celestialmovies.id" tvg-logo="https://i.postimg.cc/wMrvbfG1/logo-celestialmovie-small.png" group-title="MOVIES",CELESTIAL MOVIES HD
-https://drive.awanputih.info/canel/Celestial Movie.m3u8
-#EXTINF:-1 tvg-chno="158" tvg-id="cinemaxbyhbo.id" tvg-name="cinemaxbyhbo.id" tvg-logo="https://i.postimg.cc/dtJkxT0P/611-cinemax.png" group-title="MOVIES",Cinemax by HBO ID
-https://vod.awanputih.info/djashbo/cinemax.m3u8
-#EXTINF:-1 tvg-chno="159" tvg-id="flik.id" tvg-name="flik.id" tvg-logo="https://i.postimg.cc/NjkYzGF3/logo-flik-small1.png" group-title="MOVIES",FLIK HD
-https://drive.awanputih.info/canel/Flik.m3u8
-#EXTINF:-1 tvg-chno="160" tvg-id="fx.id" tvg-name="fx.id" tvg-logo="https://i.postimg.cc/vB2ytB3n/fx.png" group-title="MOVIES",FX HD
-http://mantul.biz.id:8888/live/citra/Gfd324/37.m3u8
-#EXTINF:-1 tvg-chno="161" tvg-id="fox.id" tvg-name="fox.id" tvg-logo="https://i.postimg.cc/xC8dGKjn/1200px-Fox-Broadcasting-Company-logo-2019-svg.png" group-title="MOVIES",FOX ID
-http://mantul.biz.id:8888/live/citra/Gfd324/9.m3u8
-#EXTINF:-1 tvg-chno="162" tvg-id="foxcrime.id" tvg-name="foxcrime.id" tvg-logo="https://i.postimg.cc/qRtg28Qy/fox-crime.png" group-title="MOVIES",FOX Crime ID
-http://mantul.biz.id:8888/live/citra/Gfd324/35.m3u8
-#EXTINF:-1 tvg-chno="163" tvg-id="foxlife.id" tvg-name="foxlife.id" tvg-logo="https://i.postimg.cc/50YNXLSG/fox-life.png" group-title="MOVIES",FOX Life ID
-http://mantul.biz.id:8888/live/citra/Gfd324/33.m3u8
-#EXTINF:-1 tvg-chno="164" tvg-id="foxmoviespremium.id" tvg-name="foxmoviespremium.id" tvg-logo="https://i.postimg.cc/wvpgjZ3t/FOXMOVIESPREMIUM.png" group-title="MOVIES",FOX Movies Premium ID
-http://mantul.biz.id:8888/live/citra/Gfd324/50.m3u8
-#EXTINF:-1 tvg-chno="165" tvg-id="ccm.id" tvg-name="ccm.id" tvg-logo="https://i.postimg.cc/fLMM5YwJ/ccm.png" group-title="MOVIES",CCM HD
-http://tvku.live:8888/3451/89748/2118
-#EXTINF:-1 tvg-chno="166" tvg-id="foxactionmovies.id" tvg-name="foxactionmovies.id" tvg-logo="https://i.postimg.cc/J0ycFDxW/1330-1.png" group-title="MOVIES",FOX Action Movies ID
-http://mantul.biz.id:8888/live/citra/Gfd324/20.m3u8
-#EXTINF:-1 tvg-chno="167" tvg-id="foxfamilymovies.id" tvg-name="foxfamilymovies.id" tvg-logo="https://i.postimg.cc/mrgvD4y6/fox-family-movies.png" group-title="MOVIES",FOX Family Movies ID
-http://mantul.biz.id:8888/live/citra/Gfd324/131.m3u8
-#EXTINF:-1 tvg-chno="168" tvg-id="galaxy.id" tvg-name="galaxy.id" tvg-logo="https://i.postimg.cc/k5h5TMhn/logo-galaxy-small1.png" group-title="MOVIES",GALAXY HD
-http://use.djasgp.my.id/canel/Galaxy.m3u8
-#EXTINF:-1 tvg-chno="169" tvg-id="hbo.id" tvg-name="hbo.id" tvg-logo="https://i.postimg.cc/vZX6w7Bw/HBO.png" group-title="MOVIES",HBO ID
-https://vod.awanputih.info/djashbo/hbohd.m3u8
-#EXTINF:-1 tvg-chno="170" tvg-id="hbo.id" tvg-name="hbo.id" tvg-logo="https://i.postimg.cc/vZX6w7Bw/HBO.png" group-title="MOVIES",HBO ID BACKUP (Opt 1)
-https://vod.awanputih.info/djashbo/hbohd2.m3u8
-#EXTINF:-1 tvg-chno="171" tvg-id="hbosignature.id" tvg-name="hbosignature.id" tvg-logo="https://i.postimg.cc/gJcxSxdk/hbosignature.png" group-title="MOVIES",HBO Signature ID
-https://vod.awanputih.info/djashbo/hsig.m3u8
-#EXTINF:-1 tvg-chno="172" tvg-id="hbosignature.id" tvg-name="hbosignature.id" tvg-logo="https://i.postimg.cc/gJcxSxdk/hbosignature.png" group-title="MOVIES",HBO Signature ID BACKUP (Opt 1)
-https://vod.awanputih.info/djashbo/hsig2.m3u8
-#EXTINF:-1 tvg-chno="173" tvg-id="hbohits.id" tvg-name="hbohits.id" tvg-logo="https://i.postimg.cc/JnMgHL8k/HBOHits-ASIA.png" group-title="MOVIES",HBO Hits ID
-https://vod.awanputih.info/djashbo/hhits.m3u8
-#EXTINF:-1 tvg-chno="174" tvg-id="hbohits.id" tvg-name="hbohits.id" tvg-logo="https://i.postimg.cc/JnMgHL8k/HBOHits-ASIA.png" group-title="MOVIES",HBO Hits ID BACKUP (Opt 1)
-https://vod.awanputih.info/djashbo/hhits2.m3u8
-#EXTINF:-1 tvg-chno="175" tvg-id="hbofamily.id" tvg-name="hbofamily.id" tvg-logo="https://i.postimg.cc/g2MPWrbT/HBO-FAMILY.png" group-title="MOVIES",HBO Family ID
-https://vod.awanputih.info/djashbo/hfam.m3u8
-#EXTINF:-1 tvg-chno="176" tvg-id="hbofamily.id" tvg-name="hbofamily.id" tvg-logo="https://i.postimg.cc/g2MPWrbT/HBO-FAMILY.png" group-title="MOVIES",HBO Family ID BACKUP (Opt 1)
-https://vod.awanputih.info/djashbo/hfam2.m3u8
-#EXTINF:-1 tvg-chno="177" tvg-id="redbyhbo.id" tvg-name="redbyhbo.id" tvg-logo="https://i.postimg.cc/ydvkwcyr/REDBYHBO.png" group-title="MOVIES",RED BY HBO ID
-https://vod.awanputih.info/djashbo/hred.m3u8
-#EXTINF:-1 tvg-chno="178" tvg-id="imc.id" tvg-name="imc.id" tvg-logo="https://www.useetv.com/assets/images/channel/logo_imc_small.png" group-title="MOVIES",IMC HD
-http://use.djasgp.my.id/canel/IMC.m3u8
-#EXTINF:-1 tvg-chno="179" tvg-id="thrill.id" tvg-name="thrill.id" tvg-logo="https://i.postimg.cc/5NYTrkhJ/logo-thrill-small.png" group-title="MOVIES",THRILL HD
-http://use.djasgp.my.id/canel/Thrill.m3u8
-#EXTINF:-1 tvg-chno="180" tvg-id="zbioskop.id" tvg-name="zbioskop.id" tvg-logo="https://i.postimg.cc/pXhvbB9f/logo-zbioskop-small1.png" group-title="MOVIES",ZBIOSKOP HD
-http://use.djasgp.my.id/canel/ZBioskop.m3u8
-#EXTINF:-1 tvg-chno="181" tvg-id="ext" tvg-name="IMC" tvg-logo="" group-title="MOVIES",IMC
-https://vcdnjt.useetv.com/joss/14/imc/chunklist_w1319293370_b684100_sleng_87965.m3u8
-#EXTINF:-1 tvg-chno="182" tvg-id="HBO.hu" tvg-name="HBO.hu" tvg-logo="" group-title="MOVIES",HBO HD
-http://x1.broiptv.online/play/devandrason@broiptv.online/81143046/YMoscz8Q/wirok/hbo_hd_wirok/playlist.m3u8
-#EXTINF:-1 tvg-chno="183" tvg-id="HBOSignature.mx" tvg-name="HBOSignature.mx" tvg-logo="" group-title="MOVIES",HBO Signature
-http://x1.broiptv.online/play/devandrason@broiptv.online/81143046/YMoscz8Q/wirok/hbo_signature_wirok/playlist.m3u8
-#EXTINF:-1 tvg-chno="184" tvg-id="HBOHits.in" tvg-name="HBOHits.in" tvg-logo="" group-title="MOVIES",HBO Hits
-http://x1.broiptv.online/play/devandrason@broiptv.online/81143046/YMoscz8Q/wirok/hbo_hits_wirok/playlist.m3u8
-#EXTINF:-1 tvg-chno="185" tvg-id="Hbofamily.br" tvg-name="Hbofamily.br" tvg-logo="" group-title="MOVIES",HBO Family
-http://x1.broiptv.online/play/devandrason@broiptv.online/81143046/YMoscz8Q/wirok/hbo_family_wirok/playlist.m3u8
-#EXTINF:-1 tvg-chno="186" tvg-id="CinemaxO.mx" tvg-name="CinemaxO.mx" tvg-logo="" group-title="MOVIES",Cinemax
-http://x1.broiptv.online/play/devandrason@broiptv.online/81143046/YMoscz8Q/wirok/cinemax_wirok/playlist.m3u8
-#EXTINF:-1 tvg-chno="187" tvg-id="ext" tvg-name="Red By HBO" tvg-logo="" group-title="MOVIES",Red By HBO
-http://x1.broiptv.online/play/devandrason@broiptv.online/81143046/YMoscz8Q/wirok/red_by_hbo_wirok/playlist.m3u8
-#EXTINF:-1 tvg-chno="188" tvg-id="ext" tvg-name="Fox Movies Premium" tvg-logo="" group-title="MOVIES",Fox Movies Premium
-http://x1.broiptv.online/play/devandrason@broiptv.online/81143046/YMoscz8Q/norvegicus/fox_movies_premium_norvegicus/playlist.m3u8
-#EXTINF:-1 tvg-chno="189" tvg-id="ext" tvg-name="Fox Family Movies" tvg-logo="" group-title="MOVIES",Fox Family Movies
-http://x1.broiptv.online/play/devandrason@broiptv.online/81143046/YMoscz8Q/norvegicus/fox_family_movies_norvegicus/playlist.m3u8
-#EXTINF:-1 tvg-chno="190" tvg-id="ext" tvg-name="Fox Action Movies" tvg-logo="" group-title="MOVIES",Fox Action Movies
-http://x1.broiptv.online/play/devandrason@broiptv.online/81143046/YMoscz8Q/norvegicus/fox_action_movies_norvegicus/playlist.m3u8
-#EXTINF:-1 tvg-chno="191" tvg-id="ext" tvg-name="tvn Movies" tvg-logo="" group-title="MOVIES",tvn Movies
-http://x1.broiptv.online/play/devandrason@broiptv.online/81143046/YMoscz8Q/norvegicus/tvn_movies_norvegicus/playlist.m3u8
-#EXTINF:-1 tvg-chno="192" tvg-id="ext" tvg-name="Star Chinese Movies" tvg-logo="" group-title="MOVIES",Star Chinese Movies
-http://x1.broiptv.online/play/devandrason@broiptv.online/81143046/YMoscz8Q/norvegicus/star_chinese_movies_norvegicus/playlist.m3u8
-#EXTINF:-1 tvg-chno="193" tvg-id="ext" tvg-name="HITS MOVIES" tvg-logo="" group-title="MOVIES",HITS MOVIES
-http://x1.broiptv.online/play/devandrason@broiptv.online/81143046/YMoscz8Q/norvegicus/hits_movies_norvegicus/playlist.m3u8
-#EXTINF:-1 tvg-chno="194" tvg-id="mgm-int" tvg-name="mgm-int" tvg-logo="" group-title="MOVIES",amc
-http://x1.broiptv.online/play/devandrason@broiptv.online/81143046/YMoscz8Q/norvegicus/amc_norvegicus/playlist.m3u8
-#EXTINF:-1 tvg-chno="195" tvg-id="ext" tvg-name="ZBioskop (Backup)" tvg-logo="" group-title="MOVIES",ZBioskop (Backup)
-http://x1.broiptv.online/play/devandrason@broiptv.online/81143046/YMoscz8Q/gerbil/zee_bioskop_gerbil/playlist.m3u8
-#EXTINF:-1 tvg-chno="196" tvg-id="ext" tvg-name="Citra Bioskop" tvg-logo="" group-title="MOVIES",Citra Bioskop
-http://x1.broiptv.online/play/devandrason@broiptv.online/81143046/YMoscz8Q/gerbil/citra_bioskop_gerbil/playlist.m3u8
-#EXTINF:-1 tvg-chno="197" tvg-id="galaxy" tvg-name="galaxy" tvg-logo="" group-title="MOVIES",Galaxy
-http://x1.broiptv.online/play/devandrason@broiptv.online/81143046/YMoscz8Q/rattus/galaxy_rattus/playlist.m3u8
-#EXTINF:-1 tvg-chno="198" tvg-id="ext" tvg-name="ZBioskop" tvg-logo="" group-title="MOVIES",ZBioskop
-http://x1.broiptv.online/play/devandrason@broiptv.online/81143046/YMoscz8Q/rattus/zbioskop_rattus/playlist.m3u8
-#EXTINF:-1 tvg-chno="199" tvg-id="ext" tvg-name="START MOVIES" tvg-logo="" group-title="MOVIES",START MOVIES
-http://livecdnh1.tvanywhere.ae:80/hls/star_movies/05.m3u8
-#EXTINF:-1 tvg-chno="200" tvg-id="SBS.us" tvg-name="SBS.us" tvg-logo="" group-title="MOVIES",SBS
-http://220.81.169.165:9981/stream/channelid/723762558
-#EXTINF:-1 tvg-chno="201" tvg-id="FoxMovies.pt" tvg-name="FoxMovies.pt" tvg-logo="" group-title="MOVIES",Fox Movies
-http://203.153.218.28:9981/stream/channelid/756717990?ticket=B63A8893B7D332F2F7ACFD3C14E761032035F66E&profile=pass
-#EXTINF:-1 tvg-chno="202" tvg-id="ext" tvg-name="Fox Movies Premium" tvg-logo="" group-title="MOVIES",Fox Movies Premium
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/FOXMovies.id.png" group-title="Movies",Fox Movies Premium
 http://203.153.218.28:9981/stream/channelid/756717990?ticket=D9CDD7DB18E80023C22954FE693F71DB745D5CE7&profile=pass
-#EXTINF:-1 tvg-chno="203" tvg-id="ext" tvg-name="Fox Family Movies" tvg-logo="" group-title="MOVIES",Fox Family Movies
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/FOXFamilyMovies.id.png" group-title="Movies",FOX Family Movies
 http://203.153.218.28:9981/stream/channelid/1949182550?ticket=C4FE458C6B9C4686BA0966E59174C0D6805DBB39&profile=pass
-#EXTINF:-1 tvg-chno="204" tvg-id="Hbofamily.br" tvg-name="Hbofamily.br" tvg-logo="" group-title="MOVIES",HBO Family
-http://203.153.218.28:9981/stream/channelid/1316004766?ticket=6A230BCD275160BC241A718EFB00115CB1F94794&profile=pass
-#EXTINF:-1 tvg-chno="205" tvg-id="HBOHits.in" tvg-name="HBOHits.in" tvg-logo="" group-title="MOVIES",HBO Hits
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mksK3qrk/HBO-HITS.png" group-title="Movies",HBO HITS
+http://203.153.218.28:9981/stream/channelid/2038175895?ticket=0299B4C37DF5A2B463E83E4FFD9AD1E91BA48253&profile=pass
+#EXTINF:-1 tvg-id="https://i.postimg.cc/mksK3qrk/HBO-HITS.png" group-title="Movies",HBO HITS 2
 http://203.153.218.28:9981/stream/channelid/2038175895?ticket=6BFD6BDBFA641B9E326D9F96C522A9CA148626C6&profile=pass
-#EXTINF:-1 tvg-chno="206" tvg-id="HBOSignature.mx" tvg-name="HBOSignature.mx" tvg-logo="" group-title="MOVIES",HBO Signature
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/cHYVnZ0P/HBO-SIGNATURE.png" group-title="Movies",HBO Signature
 http://203.153.218.28:9981/stream/channelid/1197019186?ticket=96AB9AD0536B1000E515E3219100C78A9625CAE3&profile=pass
+#EXTINF:-1 tvg-id="https://i.postimg.cc/cHYVnZ0P/HBO-SIGNATURE.png" group-title="Movies",HBO Signature 2
+http://203.153.218.28:9981/stream/channelid/1197019186?ticket=E20CE4FFE9600A12851300CCFE97AAD81D0B030D&profile=pass
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/HBOHits.id.png" group-title="Movies",HBO Hits HD
+http://203.153.218.28:9981/stream/channelid/2038175895?ticket=0299B4C37DF5A2B463E83E4FFD9AD1E91BA48253&profile=pass
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/KvKtrYdK/Fox-Logo.png" group-title="Movies",FOX
+http://203.153.218.28:9981/stream/channelid/1910872088?ticket=1FE514A47371AF385F3866E79BE3A4D04BB182F4&profile=pass
+#EXTINF:-1 tvg-id="https://i.postimg.cc/KvKtrYdK/Fox-Logo.png" group-title="Movies",FOX 2
+http://203.153.218.28:9981/stream/channelid/1910872088?ticket=9527FC229C33A71FBAF7DEF7D4ADD74FA1D1F1D5&profile=pass
+#EXTINF:-1 tvg-id="https://i.postimg.cc/pTpKGXp1/FOX-MOVIES.png" group-title="Movies",FOX Family Movies
+http://203.153.218.28:9981/stream/channelid/1949182550?ticket=C4FE458C6B9C4686BA0966E59174C0D6805DBB39&profile=pass
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pTpKGXp1/FOX-MOVIES.png" group-title="Movies",Fox Movies
+http://203.153.218.28:9981/stream/channelid/756717990?ticket=D9CDD7DB18E80023C22954FE693F71DB745D5CE7&profile=pass
+#EXTINF:-1 tvg-id="https://i.postimg.cc/pTpKGXp1/FOX-MOVIES.png" group-title="Movies",Fox Movies 2
+http://203.153.218.28:9981/stream/channelid/756717990?ticket=397900FDAB149520DA6CD0E3E8F82F901132A27B&profile=pass
+#EXTINF:0 tvg-id="ext" group-title="Movies",BO CLASIC
+http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(1677721)?start=LIVE&end=END
+#EXTINF:0 tvg-id="ext" group-title="Movies",BO TV
+http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodTVFilm/6.m3u8/Level(1677721)?start=LIVE&end=END
+#EXTINF:0 tvg-id="ext" group-title="Movies",Classics Marathi
+https://d1fi19tywmn14b.cloudfront.net/yuppindmov/ngrp:ymarcla.stream_all/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Movies",Classics Tamil
+https://d1fi19tywmn14b.cloudfront.net/yuppindmov/ngrp:ytamcla.stream_all/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Movies",Classics Telugu
+https://d1fi19tywmn14b.cloudfront.net/yuppindmov/ngrp:ytelcla.stream_all/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Movies",Comedy Telugu
+https://d1fi19tywmn14b.cloudfront.net/yuppindmov/ngrp:ytelcom.stream_all/playlist.m3u8
+#EXTINF:0 tvg-id="DubaiOne.net" group-title="Movies",Dubai One
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaione
+#EXTINF:0 tvg-id="ext" group-title="Movies",GEM Drama
+http://d2e40kvaojifd6.cloudfront.net/stream/gem_drama/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Movies",Groovy
+http://bit.ly/2p6JqSo
+#EXTINF:0 tvg-id="ext" group-title="Movies",iFILM English
+https://bozztv.com/36bay2/gin/giniko_ifilmenglish_800kb_36bay2/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Movies",iFILM Persian 1
+https://live2.presstv.com/ifilmlive/smil:ifilmtv.smil/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/26fQY4k7/sports.jpg" group-title="Movies",Film aksi Mandarin 2020
+https://www.youtube.com/embed/38cipMQoky4
+#EXTINF:0 tvg-id="ext" group-title="Movies",iFILM Persian 2
+http://mn-nl.mncdn.com/ifilm/smil:ifilmfa2.smil/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Movies",J'go
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8?fluxustv.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Movies",J'go FMP
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8
+#EXTINF:0 tvg-id="KTV.uk" group-title="Movies",KTV
+https://d1fi19tywmn14b.cloudfront.net/yuppindmov/ngrp:ytamcla.stream_all/chunklist_w798628189_b232000.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Movies",Kuriakos Cine
+http://c2.manasat.com:1935/kcine/kcine3/FluxusTV.m3u8?fluxustv.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Movies",Movie Kingdom
+https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8
+#EXTINF:0 tvg-id="MoviesNow.in" group-title="Movies",Movies Now
+https://timesnow.airtel.tv/live/MN_pull/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Movies",Premium Marathi
+https://d1fi19tywmn14b.cloudfront.net/yuppindmov/ngrp:ymarpre.stream_all/playlist.m3u8
+#EXTINF:0 tvg-id="RaisatCinema.it" group-title="Movies",Rai Movie
+http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
+#EXTINF:0 tvg-id="RaisatPremium.it" group-title="Movies",Rai Premium
+http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/master.m3u8
+#EXTINF:0 tvg-id="RajDigitalPlus.in" group-title="Movies",Raj Digital Plus
+http://acv.asianetmobiletvplus.com/channels/rajdigital_htfuqchouekpefzxodtbzaojtryxpqkx_hls/rajdigital_htfuqchouekpefzxodtbzaojtryxpqkx_master.m3u8
+#EXTINF:0 tvg-id="RomedyNow.in" group-title="Movies",Romedy Now
+https://timesnow.airtel.tv/live/RN_pull/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Movies",RTSH Film
+http://79.106.48.2/live/rtsh_film_ott_p3/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Movies",Sur Sagar TV
+http://sursagar24.dyndns.tv:8080/sstv/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Movies",The Film Detective
+https://distro.akamaized.net/indexfd_1280x720.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Movies",Wixlar
+http://web.onair-radio.eu:1935/wixlar/wixlar/playlist.m3u8
+#EXTINF:0 tvg-id="ostrsuszet-hd" group-title="Movies",袨褋褌褉芯褋褞卸械褌薪芯械 HD
+http://188.35.9.26:14050/udp/238.0.14.3:69000
+#EXTINF:0 tvg-id="rentv" group-title="Movies",袪械薪 孝袙 HD
+http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/chunklist_b1024000.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Movies",袪械薪 孝袙 International
+http://sc.id-tv.kz/RenTV_36_37.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Movies",小孝袪袣 HD
+http://sochinskayatrk.ru/hdtv/hls/strc_hd/playlist.m3u8
